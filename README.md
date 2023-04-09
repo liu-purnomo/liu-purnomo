@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liu-purnomo
 - 👀 I’m interested in PHP and JS
-- 🌱 I’m currently learning at STMIK Antar Bangsa
 - 📫 hi@liupurnomo.com
 - 🌐 [https://liupurnomo.com](https://liupurnomo.com)
 
