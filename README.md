@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 > Teaching,
 > Writing, etc.
 
-- ### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 > Many languages such as **JavaScript**, **TypeScript**, **PHP**, and etc.
 > Many frameworks/library such as **React**, **Next.js**, **Vue**, **Laravel**, **CodeIgniter**, **Bootstrap**, **TailwindCSS** and etc.
 
