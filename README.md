@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <a target="_blank" align="center">
-  <img align="center" top="500" height="50" width="50" alt="profile" src="https://github.com/liu-purnomo/liu-purnomo/blob/main/1685419877139.jpeg">
+  <img align="center" top="500" height="100" width="100" alt="profile" src="https://github.com/liu-purnomo/liu-purnomo/blob/main/liu-jas">
 </a>
 </div>
 
