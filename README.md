@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A software engineer from &#x1F1EE;&#x1F1E9;</h3>
 
 
-<div align="center" style="height: 100px; width: 100px; border-radius: 50%;">
-<a target="_blank" align="center">
-  <img align="center" top="500" height="100" style="border-radius: 50%;" width="100" alt="profile" src="https://github.com/liu-purnomo/liu-purnomo/blob/main/liu-jas.jpeg">
-</a>
+<div align="center">
+  <a target="_blank" align="center" style="display: inline-block;">
+    <img align="center" top="500" height="100" style="border-radius: 50%;" width="100" alt="profile" src="https://github.com/liu-purnomo/liu-purnomo/blob/main/liu-jas.jpeg">
+  </a>
 </div>
 
 <br/>
