@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A software engineer from &#x1F1EE;&#x1F1E9;</h3>
 
 
-<div align="center">
+<div align="center" style="height: 100px; width: 100px; border-radius: 50%;">
 <a target="_blank" align="center">
   <img align="center" top="500" height="100" style="border-radius: 50%;" width="100" alt="profile" src="https://github.com/liu-purnomo/liu-purnomo/blob/main/liu-jas.jpeg">
 </a>
@@ -23,13 +23,13 @@ I am an enthusiastic IT professional with a strong passion for technology and a 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-	 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/liupurnomo/">
+	 <a style="margin-left: 10px; text-decoration:none;"  target="_blank" href="https://www.linkedin.com/in/liupurnomo/">
 		 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 	 </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/liupurnomo/">
+        <a style="margin-left: 10px; text-decoration:none;" target="_blank" href="https://www.instagram.com/liupurnomo/">
 		<img src="https://img.icons8.com/doodle/40/000000/instagram--v1.png">
 	</a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:liu.purnomo@icloud.com">
+        <a style="margin-left: 10px; text-decoration:none;" target="_blank" href="mailto:liu.purnomo@icloud.com">
 		<img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png">
 	</a>
  </div>
