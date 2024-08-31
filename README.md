@@ -2,7 +2,7 @@
 liu-purnomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm <a href="https://liupurnomo.com" target="blank">Liu Purnomo</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://liupurnomo.com" target="blank">‎Liu Purnomo, S.Kom., CPSP., CSMSP.</a></h1>
 <h3 align="center">A software engineer from &#x1F1EE;&#x1F1E9;</h3>
 
 
