@@ -50,11 +50,6 @@ Below are some tools and mini-apps I've built to solve real problems or just for
 <h1 align="center">📊 GitHub at a Glance</h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liu-purnomo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liu-purnomo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,blade,shell,ejs,hack,pug"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=liu-purnomo&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
